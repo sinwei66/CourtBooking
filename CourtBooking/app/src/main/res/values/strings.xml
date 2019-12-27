@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CourtBooking</string>
+    <string name="courtBooking">Court Booking</string>
+    <string name="instruction">Please select a date and a time</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="clear">Clear</string>
+    <string name="confirm">Confirm</string>
+    <string name="category">Category</string>
+    <string name="quantity">Quantity (Maximum 3 per booking)</string>
+    <string name="bookingDetail">Please choose only ONE court</string>
+    <string name="courtA">Court A\n
+    Available\n
+        Outdoor\n
+        RM3.00 per hour
+    </string>
+
+    <string-array name="categoryArray">
+        <item>Badminton</item>
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Volleyball</item>
+    </string-array>
+
+    <string-array name="timeArray">
+        <item>11.00am - 1.00pm</item>
+        <item>1.00pm - 3.00pm</item>
+        <item>3.00pm - 5.00pm</item>
+        <item>5.00pm - 7.00pm</item>
+    </string-array>
+</resources>

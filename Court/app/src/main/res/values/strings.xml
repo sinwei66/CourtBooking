@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Court</string>
+    <string name="courtBooking">Court Booking</string>
+    <string name="bookingDetail">Please choose only ONE court</string>
+    <string name="courtA">Court A\n
+    Available\n
+        Indoor\n
+        RM3.00 per hour
+    </string>
+
+    <string name="courtB">Court B\n
+    Not Available\n
+        Indoor\n
+        RM3.00 per hour
+    </string>
+
+    <string name="courtC">Court C\n
+    Available\n
+        Indoor\n
+        RM3.00 per hour
+    </string>
+    <string name="back">Back</string>
+</resources>
