@@ -132,4 +132,13 @@
         app:layout_constraintStart_toStartOf="@+id/category"
         app:layout_constraintTop_toBottomOf="@+id/category" />
 
+    <TextView
+        android:id="@+id/textViewDemo"
+        android:layout_width="86dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="24dp"
+        android:text="TextView"
+        app:layout_constraintStart_toStartOf="@+id/btnClear"
+        app:layout_constraintTop_toBottomOf="@+id/btnClear" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -10,6 +10,7 @@ import androidx.core.content.ContextCompat.getSystemService
 import android.icu.lang.UCharacter.GraphemeClusterBreak.T
 import android.view.View
 import android.widget.*
+import androidx.core.view.get
 import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.Exception
 import java.sql.Time
@@ -25,6 +26,7 @@ class MainActivity : AppCompatActivity() {
 
     var formate = SimpleDateFormat("dd, MMM, YYYY", Locale.US)
     //var timeFormat = SimpleDateFormat("hh:mm", Locale.US)
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
